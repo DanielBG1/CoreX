@@ -75,7 +75,7 @@ En la Parte C escriban propiedades con fast-check. Requisitos:
 Meta: superar 93%. Vuelvan a ejecutar `npm run mutation` después de cada propiedad.
 
 ## Fase D. Revisión en clase (10 min)
-Cada equipo reporta: mutation score final, qué mutantes quedaron y por qué, y cuál propiedad fue la más valiosa. Comparar contra la solución de referencia.
+Cada equipo reporta: mutation score final, qué mutantes quedaron y por qué, y cuál propiedad fue la más valiosa. 
 
 ---
 
