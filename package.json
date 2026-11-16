@@ -6,7 +6,11 @@
   "scripts": {
     "test": "vitest run",
     "coverage": "vitest run --coverage",
-    "mutation": "stryker run"
+    "mutation": "stryker run",
+    "demo:coverage": "vitest run -c vitest.demo-ia.config.js --coverage",
+    "demo:mutation:ia": "stryker run stryker.demo-ia.json",
+    "demo:test:pbt": "vitest run -c vitest.demo-pbt.config.js",
+    "demo:mutation:pbt": "stryker run stryker.demo-pbt.json"
   },
   "devDependencies": {
     "@stryker-mutator/core": "^10.1.1",

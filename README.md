@@ -32,11 +32,11 @@ Stryker tarda unos 10 segundos. El reporte HTML queda en `reports/mutation/mutat
 npm run demo:coverage         
 ```
 
-**Paso 2. Mutation testing ** 
+**Paso 2. Mutation testing** 
 ```bash
 npm run demo:mutation:ia        
 ```
-
+ig
 **Paso 3. Propiedades (7 min).** 
 ```bash
 npm run demo:test:pbt
