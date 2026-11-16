@@ -36,7 +36,7 @@ npm run demo:coverage
 ```bash
 npm run demo:mutation:ia        
 ```
-ig
+
 **Paso 3. Propiedades (7 min).** 
 ```bash
 npm run demo:test:pbt
