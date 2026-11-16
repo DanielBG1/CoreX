@@ -40,7 +40,7 @@ Stryker tarda unos 10 segundos. El reporte HTML queda en `reports/mutation/mutat
 
 ---
 
-# Parte 1: Demostración (opcional)
+# Parte 1: Demostración (Explicación de la profesora)
 
 Ejemplo corto con la función `costoEnvio` de `demo/envio.js`. 
 
@@ -71,7 +71,7 @@ Resultado: mutation score. Sobre el mismo código, pruebas que sí verifican.
 
 ---
 
-# Parte 2: Ejercicio (equipos de 3 a 4)
+# Parte 2: Ejercicio para el laboratorio (trabajo en grupo)
 
 ## Contexto
 
