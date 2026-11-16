@@ -1,4 +1,4 @@
-# Laboratorio: Cobertura alta, suite vacía
+# Laboratorio: Cobertura, mutación, PBT
 
 Una IA generó pruebas con 100 % de cobertura. ¿Detectan errores de verdad? 
 
